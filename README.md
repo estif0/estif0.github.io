@@ -1,5 +1,5 @@
 # Portfolio Website
-This is a veeeeeeeeery simple portfolio website. It includes:
+This is a very simple portfolio website. It includes:
 
     - About
     - Education
